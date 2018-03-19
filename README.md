@@ -22,7 +22,7 @@
 ### Registracija novih korisnika
 *Nakon pokretanja mobilne ili web aplikacije,korisnik unosi podatke o sebi.*
 
-### Pretraživanje usluge Beuty centra 
+### Pretraživanje usluge Beauty centra 
 *Korisnik može pretraživati na više načina*
 *1.	Klikom na dugme,sistem na osnovu GPS lokacije korisnika upućuje najbliži Beauty salon sa dostupnom uslugom*
 *2.	Klikom na Beauty salon korisnik dobija informaciju o cijeni,trenutnim popustima i akcijama za tu uslugu*
