@@ -1,1 +1,0 @@
-# Grupa12-TimL-N
