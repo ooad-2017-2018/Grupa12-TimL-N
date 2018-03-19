@@ -1,6 +1,11 @@
+# **L&N** :ribbon:
 
+## Članovi tima
+- Mašović Lejla
 
+- Raščić Naida 
 
+![nesto](slika.jpg)
 
 
 # Beauty centar L&N :ribbon:
