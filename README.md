@@ -17,7 +17,7 @@
 *Ukoliko ste neki Beauty salon i želite unaprijediti vaše poslovanje na jednostavan i efikasan način,naš sistem će sigurno odgovarati vašim zahtjevima. Organizovaćemo vaše usluge najbolji mogući način.*
 
 
-# PROCESI :dragon_face:
+# Procesi :dragon_face:
 
 ### Registracija novih korisnika
 *Nakon pokretanja mobilne ili web aplikacije,korisnik unosi podatke o sebi.*
@@ -37,7 +37,7 @@
 
 
 
-# FUNKCIONALNOSTI :princess:
+# Funkcionalnosti :princess:
 
 ### Za korisnike 
 1.	Registrovanje novih korisnika
@@ -61,7 +61,7 @@
 
 
 
-# AKTERI :nail_care: :haircut: :lipstick:
+# Akteri :nail_care: :haircut: :lipstick:
 
 *Posjetioc – Lice koje može da pristupi aplikaciji registruje se ili samo pregleda listu salona i usluge koje oni pružaju*
 
