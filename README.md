@@ -24,9 +24,13 @@
 
 ### Pretraživanje usluge Beauty centra 
 *Korisnik može pretraživati na više načina*
-*1.	Klikom na dugme,sistem na osnovu GPS lokacije korisnika upućuje najbliži Beauty salon sa dostupnom uslugom*
-*2.	Klikom na Beauty salon korisnik dobija informaciju o cijeni,trenutnim popustima i akcijama za tu uslugu*
-*3.	Rezervacija na osnovu vremena koje korisnik ima na raspolaganju kao i novca*
+
+*1. Klikom na dugme,sistem na osnovu GPS lokacije korisnika upućuje najbliži Beauty salon sa dostupnom uslugom*
+
+*2. Klikom na Beauty salon korisnik dobija informaciju o cijeni,trenutnim popustima i akcijama za tu uslugu*
+
+*3. Rezervacija na osnovu vremena koje korisnik ima na raspolaganju kao i novca*
+
 *Nakon toga sistem šalje odgovor u kome stoji vrijeme,cijena,lokacija i sve potrebne informacije. Ukoliko se desi da na osnovu zahtjeva* *korisnika sistem nema potvradan odgovor,klijent će dobiti neke prijedloge koji djelimično zadovoljavaju njegove uslove.* 
 
 ### Naplata usluge/usluga
