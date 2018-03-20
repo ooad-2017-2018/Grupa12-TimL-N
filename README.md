@@ -56,12 +56,12 @@
 
 
 ### Za administraciju
-1.	Dodavanje korisnika
-2.	Brisanje korisnika
-3.	Dodavanje salona
-4.	Editovanje informacija o salonu
-5.	Brisanje salona
-6.	Evidencija o plaćanju 
+
+1.	Brisanje korisnika
+2.	Dodavanje salona
+3.	Editovanje informacija o salonu
+4.	Brisanje salona
+5.	Evidencija o plaćanju 
 
 
 
