@@ -27,14 +27,14 @@
 
 *1. Klikom na dugme,sistem na osnovu GPS lokacije korisnika upućuje najbliži Beauty salon sa dostupnom uslugom*
 
-*2. Klikom na Beauty salon korisnik dobija informaciju o cijeni,trenutnim popustima i akcijama za tu uslugu*
+*2. Klikom na Beauty salon korisnik dobija informaciju o cijeni, trenutnim popustima i akcijama za tu uslugu*
 
 *3. Rezervacija na osnovu vremena koje korisnik ima na raspolaganju kao i novca*
 
-*Nakon toga sistem šalje odgovor u kome stoji vrijeme,cijena,lokacija i sve potrebne informacije. Ukoliko se desi da na osnovu zahtjeva* *korisnika sistem nema potvradan odgovor,klijent će dobiti neke prijedloge koji djelimično zadovoljavaju njegove uslove.* 
+*Nakon toga sistem šalje odgovor u kome stoji vrijeme, cijena, lokacija i sve potrebne informacije. Ukoliko se desi da na osnovu zahtjeva* *korisnika sistem nema potvradan odgovor, klijent će dobiti neke prijedloge koji djelimično zadovoljavaju njegove uslove.* 
 
 ### Naplata usluge/usluga
-*Ukoliko korisnik dobije informaciju da postoji salon koji odgovara njegovim uslovima i prihvati to,klikom na dugme rezerviše se* *termin u izabranom salonu i automatski skočni prozor će ga obavijestiti da je potrebno da unese podatke o svom računu sa kojeg će biti* *naplaćen određeni postotak cijene usluga koji salon zahtijeva. Kada se taj proces završi korisnik dobija mogućnost da plati ostatak* *iznosa odmah,na isti način ili da posle izvršene usluge ostatak cijene da akteru salona.*
+*Ukoliko korisnik dobije informaciju da postoji salon koji odgovara njegovim uslovima i prihvati to, klikom na dugme rezerviše se* *termin u izabranom salonu i automatski skočni prozor će ga obavijestiti da je potrebno da unese podatke o svom računu sa kojeg će biti* *naplaćen određeni postotak cijene usluga koji salon zahtijeva. Kada se taj proces završi korisnik dobija mogućnost da plati ostatak* *iznosa odmah,na isti način ili da posle izvršene usluge ostatak cijene da akteru salona.*
 
 ### Notifikacije o popustima 
 *Nakon određenog broja izvršenih rezervacija koje su uspiješno završene korisnik dobije notifikaciju na aplikaciji o ostvarenim* *popustima,koji ce se obračunati kada bude korisnik trebao sljedeću uslugu.*
@@ -53,7 +53,7 @@
 7.	Preuzimanje kupona(popusta)
 8.	Elektronsko plaćanje usluga
 9.	Editovanje profila
-
+10. Pregled rezervacija
 
 ### Za administraciju
 
