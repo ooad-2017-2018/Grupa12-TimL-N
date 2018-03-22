@@ -36,9 +36,20 @@
 ### Naplata usluge/usluga
 *Ukoliko korisnik dobije informaciju da postoji salon koji odgovara njegovim uslovima i prihvati to, klikom na dugme rezerviše se* *termin u izabranom salonu i automatski skočni prozor će ga obavijestiti da je potrebno da unese podatke o svom računu sa kojeg će biti* *naplaćen određeni postotak cijene usluga koji salon zahtijeva. Kada se taj proces završi korisnik dobija mogućnost da plati ostatak* *iznosa odmah,na isti način ili da posle izvršene usluge ostatak cijene da akteru salona.*
 
+### Pregled salona
+*Nakon što se korisnik registruje na sistem,može pregledati salone po nazivu koje nude uslugu koju on želi,a zatim moze odabrati salon koji mu je najpovoljniji ili pak najbiži.*
+
 ### Notifikacije o popustima 
 *Nakon određenog broja izvršenih rezervacija koje su uspiješno završene korisnik dobije notifikaciju na aplikaciji o ostvarenim* *popustima,koji ce se obračunati kada bude korisnik trebao sljedeću uslugu.*
 
+### Dodavanje salona 
+*Administrator se prijavi na sistem i dodaje salone na način da unosi sve potrebne informacije o salonu koje će kasnije pomoći korisniku da se odluči gdje želi otići.*
+
+### Evidencija o plaćanju 
+*Administrator vodi evidenciju o plaćanju na način da kada korisnik uplati avans on to doda na listu uplata i također ukoliko plati i ostali dio novca, tako može voditi računa o novcu koji salon dobije. Isto tako može voditi računa o tome da korisnik nakon nekog broja uplata dobije popust ili neku uslugu na akciji.*
+
+### Rezervacije termina
+*Korisnik nakon prijave bira uslugu i termin koji mu odgovara, zatim rezerviše uslugu na način da popuni formu za rezervaciju i dopusti da se novac predviđen za avans preuzme sa njegovog racuna. Rezervacija je time uspješno obavljena.*
 
 
 # Funkcionalnosti :princess:
