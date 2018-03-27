@@ -5,7 +5,7 @@
 
 - Raščić Naida 
 
-![nesto](slika.jpg)
+![nesto](LIN.jpg)
 
 
 # Beauty centar L&N :ribbon:
