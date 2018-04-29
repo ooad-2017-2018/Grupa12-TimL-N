@@ -98,10 +98,17 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="IPregledRezervacija.cs" />
+    <Compile Include="Lokacija.cs" />
+    <Compile Include="RegistrovaniKorisnik.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="NeregistrovaniKorisnik.cs" />
+    <Compile Include="Posjetioc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezervacija.cs" />
+    <Compile Include="Usluga.cs" />
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
